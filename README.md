@@ -1,10 +1,22 @@
-## Hi there 👋
+## Hi, I'm Mercedes 👋
 
-C Developer · Systems & Problem Solving | 42 Madrid | Publishing Background
+C Developer · Systems & Problem Solving | 42 Madrid | Former Publishing Founder
 
-## About me
-- Software Developer, training at 42 Madrid. I'm learning C and C++, to build a strong foundation in systems programming, data structures and memory management.
-- 🔭 I’m currently working on theCub3d project of 42. It's a graphical project inspired by the legendary game Wolfenstein 3D. The objective is to build a simple 3D game engine using the raycasting technique, rendering a first-person view from a 2D map using the MiniLibX graphics library.
+Before code, I founded and ran a comic book publishing company for over a decade.
+That taught me to think in systems, manage complexity, and care deeply about 
+the details — which turns out to be great training for writing clean C.
+
+## What I'm working on
+
+- 🔭 **Cub3D** — a raycasting 3D engine in C inspired by Wolfenstein 3D, built with MiniLibX
+- 📚 Deepening my understanding of memory management, algorithms and data structures
+
+## Stack
+
+![C](https://img.shields.io/badge/-C-A3C4F3?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-A3C4F3?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-A3C4F3?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white)
 
 ## 42 Madrid
 Project-based, peer-to-peer programming school. Currently halfway through the Common Core, working primarily in C and C++.
