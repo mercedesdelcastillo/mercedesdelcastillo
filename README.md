@@ -13,12 +13,12 @@ the details — which turns out to be great training for writing clean C.
 
 ## Stack
 
-# Lenguajes
+### Lenguajes
 ![C](https://img.shields.io/badge/-C-A3C4F3?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-A3C4F3?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-A3C4F3?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#Herramientas
+### Herramientas
 ![Git](https://img.shields.io/badge/-Git-A3C4F3?style=for-the-badge&logo=git&logoColor=white)
 
 ## 42 Madrid
