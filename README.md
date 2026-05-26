@@ -9,3 +9,4 @@ C Developer · Systems & Problem Solving | 42 Madrid | Publishing Background
 ## 42 Madrid
 Project-based, peer-to-peer programming school. Currently halfway through the Common Core, working primarily in C and C++.
 <img width="150" height="150" alt="libftm" src="https://github.com/user-attachments/assets/d69c566e-c9fe-45e1-a2a4-a90a9dcc9d33" />
+https://github.com/mercedesdelcastillo/42-project-badges/blob/main/badges/born2beroote.png
